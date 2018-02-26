@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wishfie</string>
+    <string name="action_add">Add Wishfie</string>
+    <string name="action_feed">Feed</string>
+    <string name="action_disc">Discover</string>
+    <string name="search">Search</string>
+    <string name="view_all">View All</string>
+    <string name="add_opp">Add Opinion</string>
+    <string name="trending">Trending Wishfies</string>
+    <string name="opinions">Trending Opinions</string>
+    <string name="top">Top Wishfies</string>
+    <string name="creators">Top Creators</string>
+    <string name="suggested">Suggested topics</string>
+
+    <string name="cancle">Cancle</string>
+    <string name="settings">Settings</string>
+    <string name="save">Save</string>
+</resources>
