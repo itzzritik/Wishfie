@@ -14,5 +14,5 @@ Apk of every page is available right here, click on the screenshots to download 
 [<img src="screenshots/notification.png" width="33%">](apks/notification.apk?raw=true)
 
 ## Download
-Visit their official playstore page and grab it now to debate on hot news, stories, politics & trending topics using your selfie-camera.  
+Visit their official playstore page and grab it now to debate on hot news, stories, politics & trending topics.  
 [<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=com.wishfie)
