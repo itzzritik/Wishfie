@@ -4,4 +4,4 @@ Wishfie is a video messenger to help you voice your opinions, debate hot news, s
 It is neither owned nor maintained my me in any means. I just contributed on user interface of this application.
 
 ## Screenshots
-[<img src="screenshots/country.png" width="33.3333%">](apk/country.apk?raw=true)
+[<img src="screenshots/country.png" width="33.3333%">](apks/country.apk?raw=true)
