@@ -6,12 +6,12 @@
 ## Screenshots
 Apk of every page is available right here, click on the screenshots to download appropriate apk file.  
 
-[<img src="screenshots/home1.png" width="33%">](apks/home.apk?raw=true)
-[<img src="screenshots/home2.png" width="33%">](apks/home.apk?raw=true)
-[<img src="screenshots/country.png" width="33%">](apks/country.apk?raw=true)
-[<img src="screenshots/profile.png" width="33%">](apks/profile.apk?raw=true)
-[<img src="screenshots/settings.png" width="33%">](apks/settings.apk?raw=true)
-[<img src="screenshots/notification.png" width="33%">](apks/notification.apk?raw=true)
+[<img src="screenshots/home1.png" width="32%">](apks/home.apk?raw=true)
+[<img src="screenshots/home2.png" width="32%">](apks/home.apk?raw=true)
+[<img src="screenshots/country.png" width="32%">](apks/country.apk?raw=true)
+[<img src="screenshots/profile.png" width="32%">](apks/profile.apk?raw=true)
+[<img src="screenshots/settings.png" width="32%">](apks/settings.apk?raw=true)
+[<img src="screenshots/notification.png" width="32%">](apks/notification.apk?raw=true)
 
 ## Download
 Visit their official playstore page and grab it now to debate on hot news, stories, politics & trending topics.  
